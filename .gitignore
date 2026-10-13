@@ -1,0 +1,9 @@
+# SwiftPM build directory
+.build/
+
+# Assembled app bundle: the binary is compiled and the resources are
+# byte-identical copies of Assets/. Info.plist is tracked.
+Moth.app/Contents/MacOS/
+Moth.app/Contents/Resources/
+
+.DS_Store
